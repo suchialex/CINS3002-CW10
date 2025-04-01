@@ -131,7 +131,7 @@ use the minimal statements
     - Display all the data about that car in a pretty format
     - Get the new model from the user, and
     - Update its model using the appropriate method
-    - Display the data about the product again
+    - Display the data about the car again
 </details>
 
 
@@ -140,7 +140,7 @@ use the minimal statements
     ✅ 4. Serialize the dictionary 
   </summary>
 
-  - Serialize this dictionary (pickle it) and save it in the file products.bin
+  - Serialize this dictionary (pickle it) and save it in the file cars.bin
 </details>
 
 
